@@ -9,6 +9,7 @@
 ## 📋 Descrição do Projeto
 
 Este repositório contém um dashboard interativo de análise de vendas do Xbox, desenvolvido como parte do desafio proposto pela plataforma DIO.me. O projeto transforma dados brutos de vendas em visualizações analíticas que facilitam a tomada de decisões estratégicas.
+Utilizando o método de organização pessoal proposto por @felipeAguiarCode da DIO.
 
 ## 🎯 Objetivos do Projeto
 
