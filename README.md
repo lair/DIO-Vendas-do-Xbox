@@ -2,7 +2,7 @@
 
 ## 📊 DIO-Vendas-do-Xbox
 
-![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Em%20andamento-yellow)
+![Badge em Desenvolvimento](https://img.shields.io/badge/Status-Concluido-sucess)
 ![Badge Excel](https://img.shields.io/badge/Ferramenta-Excel-217346)
 ![Badge Análise de Dados](https://img.shields.io/badge/Área-Análise_de_Dados-blue)
 
@@ -22,10 +22,8 @@ Utilizando o método de organização pessoal proposto por @felipeAguiarCode da 
 
 - **Microsoft Excel**: Utilização avançada de funcionalidades como:
   - Tabelas dinâmicas
-  - Fórmulas complexas (PROCV, SOMASES, etc.)
   - Recursos de visualização de dados
   - Segmentação de dados (Slicers)
-  - Power Query para ETL (Extração, Transformação e Carregamento)
 
 ## 🖥️ Estrutura do Dashboard
 
@@ -39,7 +37,7 @@ O dashboard foi estruturado para fornecer uma visão completa das vendas, com di
 
 ## 🔍 Prévia do Dashboard
 
-> Imagem do dashboard será inserida aqui após finalização
+> ![ScreenShot](screenshots/SS03.png)
 
 ## 📁 Estrutura do Repositório
 ```
